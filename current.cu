@@ -20,7 +20,7 @@
     <main>
         <section>
             <h2>About Us</h2>
-            <p>This is a simple HTML page to demonstrate the structure of a web page.</p>
+            <p>we should read religious book beacuse they growh our thinkimg.</p>
         </section>
         <section>
             <h2>Services</h2>
